@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/Aldrinxjarot/silent-vault/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/Aldrinxjarot/silent-vault/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+
 # Silent Vault
 
 A tiny top-down stealth game for the make.fun "best stealth game" bounty.
